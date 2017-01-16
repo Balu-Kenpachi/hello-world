@@ -1,5 +1,5 @@
 # hello-world
-For Learning how to work with github
+For Learning how to work with .... I removed github word
 
 This is my first commit.. 
 
